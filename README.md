@@ -27,3 +27,13 @@ Adversarial example입니다.
 
 ![adversarial](./adversarial/0_adversarial.png)
 
+
+육안으로는 두 이미지는 큰 차이는 없으나, adversarial example은 완전히 다른 판별을 한다.
+
+위의 example은 다음과 같은 결과를 가진다.
+
+- label : 6
+
+- original predict : 6
+
+- adversarial predict : 3
