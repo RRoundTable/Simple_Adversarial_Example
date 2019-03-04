@@ -34,9 +34,9 @@ Adversarial example입니다.
 
 - label : 6
 
-- original predict : 6
+- original predict : 6 (True)
 
-- adversarial predict : 3
+- adversarial predict : 3 (False)
 
 
 # reference
