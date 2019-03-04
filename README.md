@@ -7,6 +7,8 @@ Adversarial example입니다.
 
 특히, 인간의 판단에는 영향을 끼치지 않을 정도로 작은 변화이나 모델의 판단에는 큰 변화를 준다.
 
+![example](https://blog.openai.com/content/images/2017/02/adversarial_img_1.png)
+
 ## Dataset
 
 - cifar10
