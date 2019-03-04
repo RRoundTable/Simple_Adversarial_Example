@@ -19,4 +19,11 @@ Adversarial example입니다.
 
 ## result
 
+### original
+
+![original](./original/0_original.png)
+
+### adversarial
+
+![adversarial](./adversarial/0_adversarial.png)
 
