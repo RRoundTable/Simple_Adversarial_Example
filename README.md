@@ -19,11 +19,11 @@ Adversarial example입니다.
 
 ## result
 
-### original
+### original example
 
 ![original](./original/0_original.png)
 
-### adversarial
+### adversarial example
 
 ![adversarial](./adversarial/0_adversarial.png)
 
@@ -37,3 +37,10 @@ Adversarial example입니다.
 - original predict : 6
 
 - adversarial predict : 3
+
+
+# reference
+
+https://github.com/anishathalye/obfuscated-gradients
+
+keras version에서 학습된 model을 활용할 수 있게 수정하였습니다.
